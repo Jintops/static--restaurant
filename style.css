@@ -1,0 +1,173 @@
+.body{
+    margin: 0;
+}
+.pt-2{
+    
+    
+    color: gold;
+    font-family: inherit;
+    font-size: 45px;
+
+}
+
+#bgimg{
+    
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://www.todocanada.ca/wp-content/uploads/Bluenose-II-Restaurant-15-Local-Restaurants-if-You%E2%80%99re-Visiting-Halifax.jpg");
+}
+
+.headerpart{
+    background-color:rgba(255,255,255,0.5);
+    
+}
+
+.ok{
+    display: flex;
+    padding-top: 150px;
+  /*this centers the text horizontally*/
+  justify-content: center;
+
+  /*this centers the text vertically*/
+  align-items: center;
+}
+
+.hidden{
+    padding-top: 50px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:gold;
+}
+.para2{
+
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+
+}
+.img2{
+    width: 260px;
+    height: 215px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+.head1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    margin-top: 5px;
+}
+.para1{
+    font-weight: bold;
+}
+.btnn{
+    background-color: orange;
+    color: white;
+    border-radius: 6px;
+    border-style: double;
+    font-weight: bold;
+}
+.btnn:hover{
+    background-color:yellowgreen;
+}
+.hidden2{
+    padding-top: 60px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:gold;
+    
+}
+.img3{
+width: 450px;
+margin-top: 40px;
+
+}
+.para3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 35px;
+    padding-left: 60px;
+    padding-right: 30px;
+}
+.para4{
+    
+    color: gray;
+}
+.btn1{
+    margin-left: 60px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    border-style: double;
+    font-weight: bold;
+}
+.btn1:hover{
+    background-color:yellowgreen;
+}
+.btn2{
+    
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    border-style: double;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.btn2:hover{
+    background-color:yellowgreen;
+}
+.btn3{
+    
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    border-style: double;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.btn3:hover{
+    background-color:yellowgreen;
+}
+
+  .para5{
+    margin-top: 90px;
+    color: gold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+  }
+  .para6{
+    font-size: 35px;
+    color: black;
+    margin-top: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+.caard{
+  
+width: 271px;
+margin-left: 8px;
+  margin-top: 8px;
+  height: 180px;
+  border-radius:10px;
+
+}
+.card{
+    text-align: center;
+}
+.listt{
+    list-style: none;
+    margin-left: -35px;
+    margin-top: 25px;
+}
+.para7{
+    margin-top: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.para8{
+    margin-left: 150px;
+    margin-top: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.listt2{
+    list-style: none;
+    margin-left: 115px;
+    margin-top: 25px;
+}
